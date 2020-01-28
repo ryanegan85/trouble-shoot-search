@@ -1,0 +1,6 @@
+dSeaGate does not have a utility to reduce hard drive noise.
+If the drive is not detected, make sure it is properly mounted.
+If the light on the drive is flashing, restart your computer.
+You can format the external hard drive under disc management in your settings.
+If you have an Access Denied error, change your security settings in Windows options.
+To burn a .iso image, you need an external CD-ROM burner.

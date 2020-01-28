@@ -1,0 +1,6 @@
+If a red light is flashing on the drive, the drive has reached capacity.
+If the connecting cable is not fitting in either port, the wire may be defective and need to be replaced.
+If data on the drive becomes corrupted, hold the button on the back for 5 seconds to wipe all data.
+In the case of a broken drive, you can get a replacement if it is under warranty.
+If a game is slow or not running properly while installed on the drive, try to repair the installation in the options menu.
+If an installed game cannot be found, try unistalling and reinstalling it in the options menu.

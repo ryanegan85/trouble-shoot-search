@@ -1,0 +1,6 @@
+If your cursor is freezing, your firmware may be out of date.
+If you are getting a blue screen of death, try updating the firmware.
+If your computer won't boot, make sure the SSD is mounted correctly.
+If files cannot be written, your drive may have reached its write capacity.
+If an app is crashing frequently, it may not be compatible with your drive.
+If you are frequently prompted to repair the drive, you may have a bad block that must be deleted.

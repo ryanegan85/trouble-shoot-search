@@ -1,0 +1,6 @@
+You can repair corrupted files via the command prompt.
+If the hard drive is not recognized, ask for a return to receive a new one.
+If your computer is overheating frequently, this may cause damage to the drive.
+If you accidentally alter registry settings, contact a professional to recover lost files.
+If your hard drive is infected with a virus, try to use an anti-virus software to solve the issue.
+To avoid losing data in the case of hard drive failure, make sure to backup your drive.

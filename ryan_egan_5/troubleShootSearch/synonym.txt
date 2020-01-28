@@ -1,0 +1,8 @@
+noise|sound
+flashing|blinking
+crashing|freezing
+repair|fix
+virus|malware
+failing|failure
+slow|lagging
+found|located
